@@ -1,0 +1,11 @@
+{
+  "selection_rule": "minimum validation_mse",
+  "selected_experiment": "C_depth_4_seed_42",
+  "selected_validation_mse": 2.599456283860491e-06,
+  "final_test_metrics": {
+    "mse": 2.3988211523828795e-06,
+    "mae": 0.0012544222408905625,
+    "rmse": 0.0015488128203184784
+  },
+  "note": "The test split was not used to select this configuration."
+}
