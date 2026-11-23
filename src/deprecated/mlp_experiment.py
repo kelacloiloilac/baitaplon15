@@ -1,4 +1,4 @@
-"""Reproducible PyTorch experiments for approximating a 2-D Gaussian PDF."""
+
 
 from __future__ import annotations
 
